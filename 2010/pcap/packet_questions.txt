@@ -1,0 +1,7 @@
+1. Provide the MD5 hash of the hidden file containing the extra information on the HackEire network  (1.pcap)?
+
+2. What is this traffic (packet_challenge2.txt) ? 
+
+3. What is the IP header length and IP datagram length? What is the application-layer protocol? What TCP options are used (packet_challenge3.txt) ?   
+
+4. What is the IP version of the third packet? What's the embedded protocol? There's fragmentation - is it normal or malicious and why so (packet_challenge4.txt) ?
