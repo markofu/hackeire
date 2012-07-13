@@ -1,35 +1,16 @@
-{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf360
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww18680\viewh12460\viewkind0
-\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\ql\qnatural\pardirnatural
+Social Engineering Questions
+----------------------------
 
-\f0\b\fs24 \cf0 \ul \ulc0 Social Engineering Questions\
-\
-1.
-\b0 \ulnone  Where is the pub that the CEO of Bhratach frequents (answer in format of dublin area, e.g. "ballsbridge",  "clontarf")?\
-\
+1. Where is the pub that the CEO of Bhratach frequents (answer in format of dublin area, e.g. "ballsbridge",  "clontarf")?
 
-\b \ul 2.
-\b0 \ulnone  On what date did the Bhratach crew visit Bono (answer in format "230610")?\
-\
+2. On what date did the Bhratach crew visit Bono (answer in format "230610")?\
 
-\b \ul 3.
-\b0 \ulnone  Where does Fred (from Bhratach) like to eat when he's in Carlow (answer in format of "mcdonalds", "burgerking"?\
-\
+3. Where does Fred (from Bhratach) like to eat when he's in Carlow (answer in format of "mcdonalds", "burgerking"?\
 
-\b \ul 4.
-\b0 \ulnone  Lyra sometimes goes to a gym in  (answer in format of dublin street e.g. "ushersquay", "merrionroad")?\
-\
+4. Lyra sometimes goes to a gym in  (answer in format of dublin street e.g. "ushersquay", "merrionroad")?\
 
-\b \ul 5.
-\b0 \ulnone  Where are the offices of Bhratach (answer in format of dublin area, e.g. ballsbridge, clontarf)?\
-\
+5. Where are the offices of Bhratach (answer in format of dublin area, e.g. ballsbridge, clontarf)?\
 
-\b \ul 6.
-\b0 \ulnone  What is the email address of the Bratach CEO (answer in format of "fred@hotmail.com")?\
-\
+6. What is the email address of the Bratach CEO (answer in format of "fred@hotmail.com")?\
 
-\b \ul 7.
-\b0 \ulnone  What is the password of the Bratach CEO (this question is case sensitive)?\
-}
+7. What is the password of the Bratach CEO (this question is case sensitive)?\
