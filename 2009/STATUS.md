@@ -1,4 +1,4 @@
 2009	
 ========
 
-I'm having difficulty finding the challenges so I've uploaded the "after" presentation, which details the HackEire 2009 infrastructure and how to solve the various challenges.
+I'm unable to upload the 2009 challenges because the servers that the infrastructure was built on are long gone :(
