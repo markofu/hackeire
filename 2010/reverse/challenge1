@@ -1,0 +1,31 @@
+//25/10/2010 00:00:00
+
+#include <stdio.h>
+#include <string.h>
+
+#define FAIL "This is not the correct password!"
+#define SUCCESS "This is the correct password!"
+
+char szPassword[] = "HACKEIRE";
+
+main(int argc, char**argv)
+{
+	char szInput[256];
+	
+	puts("HACKEIRE BASIC BINARY REVERSE CHALLENGE");
+	puts("-----------------------");
+	puts("Type the password and press enter:");
+	if (NULL == gets(szInput))
+		puts(FAIL);
+	else if (strcmp(szInput, szPassword))
+		puts(FAIL);
+	else
+	{
+		puts(SUCCESS);
+		printf("The code is %.0f\n", strlen(szPassword) * 167.1);
+	}		
+
+	puts("Press enter to end the program:");
+	getchar();
+	return 0;
+}
