@@ -17,7 +17,7 @@
 | 2(d) | The 'miscreant' then runs two scans beginning just after six minutes and 24 minutes into the trace, however, these traces weren't to his/her liking as they were too slow. On the following scans, a switch was removed from the command to improve the speed, what was this switch (just the letters, case-sensitive)?  |
 | 2(e) | What switch was added to the final scan (case-sensitive)? |
 | #### | #### | #### | #### |
-| 3(a) | What type of ICMP traffic is this? (Answer a, b, c ,d or e) <ul><li>a. Echo request/reply</li></li>b. OS Mapping</li></li>c. Covert Channel</li></li>d. Inverse Mapping</li></li>e. Route Redirect</li></li></ul> |
+| 3(a) | What type of ICMP traffic is this? (Answer a, b, c ,d or e) <ul><li>a. Echo request/reply</li></li>b. OS Mapping</li><li>c. Covert Channel</li><li>d. Inverse Mapping</li><li>e. Route Redirect</li><li></ul> |
 | 3(b) | What is the number of the first frame that indicates that something funny might be going on? |
 | 3(c) | What tool generated this 'malicious' traffic? |
 | 3(d) | What is the application layer protocol that is hidden within the ICMP traffic (i.e. the payload)? |
