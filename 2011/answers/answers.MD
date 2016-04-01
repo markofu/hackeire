@@ -1,7 +1,7 @@
 | Number        | Question      | Answer        | Score |
 | :-------------: | :-------------: | :-------------: | :-------------: |
 | 1(a) | What was the complete URI of the original web request that led to the client being compromised? | http://10.20.0.111:8080/banking.htm | 1 |
-| 1(b) | What file type was requested in the final web request to the malicious server? (Answer a, b, c ,d or e) | e | 2 |
+| 1(b) | What file type was requested in the final web request to the malicious server? (Answer a, b, c ,d or e) <ul><li>a. windows executable</li><li>b. javascript</li><li>c. pdf</li><li>d.word document</li><li>e. gif | e | 2 |
 | 1(c) | What was the complete URI of the original web request that led to the client being compromised? | ea7df583983133b62712b5e73bffbcd45cc53736 | 2 |
 | 1(d) | What is the number of the first frame that indicates that the client has been compromised? | 4722 | 3 |
 | 1(e) | At one point, the malicious server sends a malicious file to the client. What type of file is ? (Answer a, b, c ,d or e) <ul><li>a. windows executable</li><li>b. javascript</li><li>c. pdf</li><li>d. worddocument</li><li>e. gif</li></ul> | a | 2 |
