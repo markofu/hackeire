@@ -14,10 +14,7 @@
 | 2(a) | What is the frame that indicates the something strange might be going on? | 8 | 2 |
 | 2(b) | What tool is generating this traffic? | nmap | 1 |
 | 2(c) | What does this frame constitute the beginning of? (Answer a,b,c,d or e) <ul><li>a. TCP Scan</li><li>b. Ack Scan</li><li>c. Xmas Scan</li><li>d. Ping Scan</li><li>e. Syn Flood</li></ul> | 8 | 1 |
-| 2(d) | The 'miscreant' then runs two scans beginning just after six minutes and 24 minutes into
-the trace, however, these traces weren't to his/her liking as they were too slow. On the following
-scans, a switch was removed from the command to improve the speed, what was this switch (just the
-letters, case-sensitive)?  | sU | 3 |
+| 2(d) | The 'miscreant' then runs two scans beginning just after six minutes and 24 minutes into the trace, however, these traces weren't to his/her liking as they were too slow. On the following scans, a switch was removed from the command to improve the speed, what was this switch (just the letters, case-sensitive)?  | sU | 3 |
 | 2(e) | What switch was added to the final scan (case-sensitive)? | A | 3 |
 | #### | #### | #### | #### |
 | 3(a) | What type of ICMP traffic is this? (Answer a, b, c ,d or e) | c | 1 | <ul><li>a. Echo request/reply</li></li>b. OS Mapping</li></li>c. Covert Channel</li></li>d. Inverse Mapping</li></li>e. Route Redirect</li></li></ul>
