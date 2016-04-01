@@ -19,10 +19,10 @@ the trace, however, these traces weren't to his/her liking as they were too slow
 scans, a switch was removed from the command to improve the speed, what was this switch (just the
 letters, case-sensitive)?  | sU | 3 |
 | 2(e) | What switch was added to the final scan (case-sensitive)? | A | 3 |
+| #### | #### | #### | #### |
 | 3(a) | What type of ICMP traffic is this? (Answer a, b, c ,d or e) | c | 1 | <ul><li>a. Echo request/reply</li></li>b. OS Mapping</li></li>c. Covert Channel</li></li>d. Inverse Mapping</li></li>e. Route Redirect</li></li></ul>
 | 3(b) | What is the number of the first frame that indicates that something funny might be going on? | 15 | 2 |
 | 3(c) | What tool generated this 'malicious' traffic? | ptunnel | 1 |
 | 3(d) | What is the application layer protocol that is hidden within the ICMP traffic (i.e. the payload)? | ssh | 1 |
 | 3(e) | What is the 'true' destination of the ICMP traffic generated from 192.168.5.208? | 172.16.15.138 | 3 |
 | 3(f) | What is the session identifier for each packet (answer in hex (2 bytes), i.e inf the format of 1111)? | e59c | 1 |
-
